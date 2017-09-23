@@ -57,6 +57,9 @@
     border-left: none;
 
   }
+  .navbar-list{
+    height: 80px;
+  }
 
 
   /* HOME */
