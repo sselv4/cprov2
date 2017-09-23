@@ -1576,4 +1576,37 @@ footer {
 }
 
 
+/*SCROLL*/
+.div1{
+	width: auto;
+	height: auto;
+	/*    padding-bottom: 80px;*/
+@include animation(bounce 3s infinite);
+}
+
+.div1 :hover{
+	background-color :transparent;
+
+}
+
+.div1btn{
+	position:absolute;
+	top:75%;
+	left: 50%;
+
+	cursor:pointer;
+	-webkit-animation: bounce 3s infinite ease-in-out;
+}
+@-webkit-keyframes bounce {
+	0%, 20%, 60%, 100%  { -webkit-transform: translateY(0); }
+	40%  { -webkit-transform: translateY(-20px); }
+	80% { -webkit-transform: translateY(-10px); }
+}
+
+.btn1 {
+
+	cursor:pointer;
+	display:none;
+	padding-right: 80px;
+}
 
