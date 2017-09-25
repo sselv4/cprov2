@@ -4,7 +4,6 @@
     <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsiveX.css" afterPath="$PROJECT_DIR$/css/responsiveX.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="responsiveX.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="844">
-              <caret line="221" column="23" lean-forward="true" selection-start-line="221" selection-start-column="23" selection-end-line="221" selection-end-column="23" />
+            <state relative-caret-position="170">
+              <caret line="217" column="20" lean-forward="true" selection-start-line="217" selection-start-column="20" selection-end-line="217" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -31,8 +30,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="648" column="0" lean-forward="false" selection-start-line="648" selection-start-column="0" selection-end-line="650" selection-end-column="1" />
+            <state relative-caret-position="117">
+              <caret line="782" column="24" lean-forward="false" selection-start-line="781" selection-start-column="0" selection-end-line="784" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -41,8 +40,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="158" column="21" lean-forward="true" selection-start-line="158" selection-start-column="21" selection-end-line="158" selection-end-column="21" />
+            <state relative-caret-position="151">
+              <caret line="277" column="0" lean-forward="true" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
               <folding>
                 <marker date="1506351041071" expanded="true" signature="38169:38177" ph="..." />
               </folding>
@@ -79,10 +78,12 @@
       <find>nav</find>
       <find>top</find>
       <find>ha</find>
-      <find>services</find>
       <find>focus</find>
-      <find>service</find>
       <find>row</find>
+      <find>service</find>
+      <find>services</find>
+      <find>cbp-rfgrid</find>
+      <find>wor</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -183,7 +184,7 @@
       <updated>1506185238259</updated>
       <workItem from="1506185239378" duration="74000" />
       <workItem from="1506187685765" duration="11063000" />
-      <workItem from="1506346064939" duration="3442000" />
+      <workItem from="1506346064939" duration="7180000" />
     </task>
     <task id="LOCAL-00001" summary="Partial Fix 9.7 inch tab css">
       <created>1506187823820</created>
@@ -213,11 +214,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506200171278</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="9.7 inch Tab Fix (top padding and our focus sec)">
+      <created>1506351189543</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1506351189543</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14579000" />
+    <option name="totallyTimeSpent" value="18317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -253,7 +261,8 @@
     <MESSAGE value="Allignment Fix 9.7 inch tab X.css" />
     <MESSAGE value="Allignment Fix 7 inch tab X.css" />
     <MESSAGE value="Ipad minor Fix; Portrait mode fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ipad minor Fix; Portrait mode fix" />
+    <MESSAGE value="9.7 inch Tab Fix (top padding and our focus sec)" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.7 inch Tab Fix (top padding and our focus sec)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -302,28 +311,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="648" column="0" lean-forward="false" selection-start-line="648" selection-start-column="0" selection-end-line="650" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="158" column="21" lean-forward="true" selection-start-line="158" selection-start-column="21" selection-end-line="158" selection-end-column="21" />
+        <state relative-caret-position="151">
+          <caret line="277" column="0" lean-forward="true" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
           <folding>
             <marker date="1506351041071" expanded="true" signature="38169:38177" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="782" column="24" lean-forward="false" selection-start-line="781" selection-start-column="0" selection-end-line="784" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="844">
-          <caret line="221" column="23" lean-forward="true" selection-start-line="221" selection-start-column="23" selection-end-line="221" selection-end-column="23" />
+        <state relative-caret-position="170">
+          <caret line="217" column="20" lean-forward="true" selection-start-line="217" selection-start-column="20" selection-end-line="217" selection-end-column="20" />
           <folding />
         </state>
       </provider>

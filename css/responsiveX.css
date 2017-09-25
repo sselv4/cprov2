@@ -223,10 +223,16 @@
     margin-right: 0;
 
   }
-  .other-focus-list ul li i {
-    margin-right: 4px;
+  .cbp-rfgrid li {
+    width: 33.3333%; /* Fallback */
+    width: -webkit-calc(100% / 2);
+    width: calc(100% / 2);
+    align-content: center;
+    padding-left: 40px;
   }
-
+  .other-focus-list ul li i {
+    margin-right: 0px;
+  }
   .works{
     padding-left:60px ;
   }
@@ -248,7 +254,7 @@
  float: inherit;
   }
   .our-team{
-    padding-left: 25px;
+    padding-left: 35px;
   }
   /* ABOUT US */
   .about-us{
@@ -268,7 +274,7 @@
   }
   .features {
     text-align: center;
-    padding-left: 35px;
+    padding-left: 45px;
   }
 
   .features .feature-icon {
