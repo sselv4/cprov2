@@ -168,6 +168,10 @@
 */
 
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape){
+/*Overrriding top padding*/
+  .focus,.works,.about-us,.features,.packages,.products,.testimonial,.contact-us {
+    padding-top: 50px;
+  }
 
 
   /* NAV BAR ELEMENTS */
@@ -191,18 +195,20 @@
     font-size: 2.813rem;
   }
 
- .focus{
-   padding-left: 55px;
-
-  }
- .focus-box .service-icon{
+ .focus {
+   padding-left: 65px;
+ }
+ /*.focus-box .service-icon{
+   border-radius: 25%;
+   border: 5px solid #ececec;
    width: 110px;
    height: 110px;
+
  }
+
  .focus-box h5{
    margin-bottom: 10px;
    color: #404040;
-
    margin-bottom: 20px;
    font-weight: normal ;
    font-size: 13px;
@@ -210,6 +216,15 @@
 
   .focus-box p {
     font-size: 10px;
+  }*/
+  .row-focusbox{
+    display: block;
+    text-align: center;
+    margin-right: 0;
+
+  }
+  .other-focus-list ul li i {
+    margin-right: 4px;
   }
 
   .works{
