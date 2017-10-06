@@ -183,7 +183,11 @@
     border-left: none;
 
   }
+  #large-container{
+    height: 480px;
+  }
   .navbar-list{
+    width: inherit;
     height: 80px;
   }
 
@@ -258,7 +262,7 @@
   }
   /* ABOUT US */
   .about-us{
-    padding-left: 40px;
+    padding-left: 55px;
   }
   .about-us .big-intro{
     text-align: center;
@@ -574,6 +578,16 @@
     display: block;
     text-align: left;
     margin-right: 0;
+  }
+  #large-container{
+    width:inherit;
+    height: 1700px;
+
+  }
+  .client-list ul li{
+    display: block;
+    text-align: center;
+
   }
 }
 
