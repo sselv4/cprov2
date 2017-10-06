@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/clients/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/clients/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/clients/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/clients/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/clients/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/clients/6.png" afterPath="" />
+    <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="Scroll to top">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/EagleTechLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/Precision.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/SBU.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/applet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/blue fusion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/bostonIT.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/brainware.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/btree.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/download.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/prosoft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/sann.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/scepter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/softhq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/tekhub.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsiveX.css" afterPath="$PROJECT_DIR$/css/responsiveX.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/calums.js" afterPath="$PROJECT_DIR$/js/calums.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,29 +37,41 @@
       <file leaf-file-name="responsiveX.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4488">
-              <caret line="264" column="20" lean-forward="false" selection-start-line="264" selection-start-column="20" selection-end-line="264" selection-end-column="20" />
+            <state relative-caret-position="-1020">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6324">
-              <caret line="372" column="0" lean-forward="false" selection-start-line="372" selection-start-column="0" selection-end-line="372" selection-end-column="0" />
+            <state relative-caret-position="27540">
+              <caret line="1659" column="4" lean-forward="false" selection-start-line="1659" selection-start-column="4" selection-end-line="1659" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="1062" column="80" lean-forward="true" selection-start-line="1062" selection-start-column="80" selection-end-line="1062" selection-end-column="80" />
+            <state relative-caret-position="493">
+              <caret line="137" column="6" lean-forward="true" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calums.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/calums.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="284" column="5" lean-forward="true" selection-start-line="284" selection-start-column="5" selection-end-line="284" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,10 +100,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>na</find>
-      <find>fea</find>
-      <find>BIG</find>
-      <find>nav-c</find>
       <find>De</find>
       <find>Hub</find>
       <find>big</find>
@@ -109,6 +126,10 @@
       <find>client</find>
       <find>client-feedbacks</find>
       <find>large</find>
+      <find>font-awe</find>
+      <find>key</find>
+      <find>height</find>
+      <find>header</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,9 +138,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/css/responsiveX.css" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/responsiveX.css" />
+        <option value="$PROJECT_DIR$/js/calums.js" />
       </list>
     </option>
   </component>
@@ -162,19 +184,12 @@
             <path>
               <item name="cprov2" type="b2602c69:ProjectViewProjectNode" />
               <item name="cprov2" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cprov2" type="b2602c69:ProjectViewProjectNode" />
               <item name="cprov2" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="backgrounds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cprov2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cprov2" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="clients" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,6 +207,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sugan\Desktop\cprov2\images" />
       <recent name="C:\Users\sugan\Desktop\cprov2\images\clients" />
     </key>
   </component>
@@ -233,7 +249,7 @@
       <workItem from="1507220555521" duration="187000" />
       <workItem from="1507220764890" duration="12626000" />
       <workItem from="1507303151178" duration="6110000" />
-      <workItem from="1507312917235" duration="12000" />
+      <workItem from="1507312917235" duration="16648000" />
     </task>
     <task id="LOCAL-00001" summary="Partial Fix 9.7 inch tab css">
       <created>1506187823820</created>
@@ -270,11 +286,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506351189543</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Content Modifications Old version commented out in index File.">
+      <created>1507313039716</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1507313039716</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38452000" />
+    <option name="totallyTimeSpent" value="55088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -311,7 +334,8 @@
     <MESSAGE value="Allignment Fix 7 inch tab X.css" />
     <MESSAGE value="Ipad minor Fix; Portrait mode fix" />
     <MESSAGE value="9.7 inch Tab Fix (top padding and our focus sec)" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.7 inch Tab Fix (top padding and our focus sec)" />
+    <MESSAGE value="Content Modifications Old version commented out in index File." />
+    <option name="LAST_COMMIT_MESSAGE" value="Content Modifications Old version commented out in index File." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -587,24 +611,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4488">
-          <caret line="264" column="20" lean-forward="false" selection-start-line="264" selection-start-column="20" selection-end-line="264" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6324">
-          <caret line="372" column="0" lean-forward="false" selection-start-line="372" selection-start-column="0" selection-end-line="372" selection-end-column="0" />
+        <state relative-caret-position="-1020">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="1062" column="80" lean-forward="true" selection-start-line="1062" selection-start-column="80" selection-end-line="1062" selection-end-column="80" />
+        <state relative-caret-position="493">
+          <caret line="137" column="6" lean-forward="true" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/calums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="284" column="5" lean-forward="true" selection-start-line="284" selection-start-column="5" selection-end-line="284" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27540">
+          <caret line="1659" column="4" lean-forward="false" selection-start-line="1659" selection-start-column="4" selection-end-line="1659" selection-end-column="4" />
           <folding />
         </state>
       </provider>

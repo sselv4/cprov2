@@ -4,8 +4,16 @@
                               *!*/
 
 @media (min-width: 1281px) {
+  #section07 .arrow-down1{
+   top: 1050px;
+  }
+#section07.arrow-down2{
+  top:1066px;
 
-
+}
+#section07 .arrow-down3{
+  top:1082px;
+}
 
 }
 
