@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="Scroll to top">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/EagleTechLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/Precision.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/SBU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/applet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/blue fusion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/bostonIT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/brainware.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/btree.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/download.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/prosoft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/sann.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/scepter.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/softhq.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/tekhub.jpg" />
+    <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsiveX.css" afterPath="$PROJECT_DIR$/css/responsiveX.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
@@ -37,29 +23,31 @@
       <file leaf-file-name="responsiveX.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1020">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="10132">
+              <caret line="596" column="23" lean-forward="false" selection-start-line="596" selection-start-column="23" selection-end-line="596" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27540">
-              <caret line="1659" column="4" lean-forward="false" selection-start-line="1659" selection-start-column="4" selection-end-line="1659" selection-end-column="4" />
+            <state relative-caret-position="17">
+              <caret line="1637" column="18" lean-forward="false" selection-start-line="1637" selection-start-column="18" selection-end-line="1637" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="137" column="6" lean-forward="true" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="9621">
+              <caret line="1283" column="40" lean-forward="true" selection-start-line="1283" selection-start-column="40" selection-end-line="1283" selection-end-column="40" />
+              <folding>
+                <marker date="1507389341149" expanded="false" signature="44899:44913" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,8 +55,8 @@
       <file leaf-file-name="calums.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/calums.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="284" column="5" lean-forward="true" selection-start-line="284" selection-start-column="5" selection-end-line="284" selection-end-column="5" />
+            <state relative-caret-position="150">
+              <caret line="250" column="0" lean-forward="true" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -100,7 +88,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>De</find>
       <find>Hub</find>
       <find>big</find>
       <find>hover</find>
@@ -130,6 +117,7 @@
       <find>key</find>
       <find>height</find>
       <find>header</find>
+      <find>network</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -140,8 +128,8 @@
       <list>
         <option value="$PROJECT_DIR$/css/responsiveX.css" />
         <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/calums.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -173,7 +161,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,6 +176,17 @@
             <path>
               <item name="cprov2" type="b2602c69:ProjectViewProjectNode" />
               <item name="cprov2" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cprov2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cprov2" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cprov2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cprov2" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -196,6 +194,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,6 +206,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sugan\Desktop\cprov2\images\team" />
       <recent name="C:\Users\sugan\Desktop\cprov2\images" />
       <recent name="C:\Users\sugan\Desktop\cprov2\images\clients" />
     </key>
@@ -249,7 +249,8 @@
       <workItem from="1507220555521" duration="187000" />
       <workItem from="1507220764890" duration="12626000" />
       <workItem from="1507303151178" duration="6110000" />
-      <workItem from="1507312917235" duration="16648000" />
+      <workItem from="1507312917235" duration="18646000" />
+      <workItem from="1507382811219" duration="6653000" />
     </task>
     <task id="LOCAL-00001" summary="Partial Fix 9.7 inch tab css">
       <created>1506187823820</created>
@@ -293,11 +294,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507313039716</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Scroll to top icon added and Bottom Scroll Revision">
+      <created>1507332438625</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1507332438625</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55088000" />
+    <option name="totallyTimeSpent" value="63739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -335,13 +343,66 @@
     <MESSAGE value="Ipad minor Fix; Portrait mode fix" />
     <MESSAGE value="9.7 inch Tab Fix (top padding and our focus sec)" />
     <MESSAGE value="Content Modifications Old version commented out in index File." />
-    <option name="LAST_COMMIT_MESSAGE" value="Content Modifications Old version commented out in index File." />
+    <MESSAGE value="Scroll to top icon added and Bottom Scroll Revision" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scroll to top icon added and Bottom Scroll Revision" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10132">
+          <caret line="596" column="23" lean-forward="false" selection-start-line="596" selection-start-column="23" selection-end-line="596" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/calums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4794">
+          <caret line="284" column="5" lean-forward="true" selection-start-line="284" selection-start-column="5" selection-end-line="284" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="137" column="6" lean-forward="true" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
+          <folding>
+            <marker date="1507389341149" expanded="false" signature="44899:44913" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="46" lean-forward="false" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27829">
+          <caret line="1637" column="18" lean-forward="true" selection-start-line="1637" selection-start-column="18" selection-end-line="1637" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4488">
@@ -378,7 +439,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17408">
           <caret line="1024" column="14" lean-forward="true" selection-start-line="1024" selection-start-column="14" selection-end-line="1024" selection-end-column="14" />
-          <folding />
+          <folding>
+            <marker date="1507389341149" expanded="false" signature="44899:44913" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -418,7 +481,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17136">
           <caret line="1008" column="67" lean-forward="false" selection-start-line="1008" selection-start-column="67" selection-end-line="1008" selection-end-column="67" />
-          <folding />
+          <folding>
+            <marker date="1507389341149" expanded="false" signature="44899:44913" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -450,7 +515,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4709">
           <caret line="277" column="0" lean-forward="false" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1507389341149" expanded="false" signature="44899:44913" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -482,7 +549,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4709">
           <caret line="277" column="0" lean-forward="false" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1507389341149" expanded="false" signature="44899:44913" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -514,7 +583,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4709">
           <caret line="277" column="0" lean-forward="false" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1507389341149" expanded="false" signature="44899:44913" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -546,7 +617,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4709">
           <caret line="277" column="0" lean-forward="true" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1507389341149" expanded="false" signature="44899:44913" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -578,7 +651,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19244">
           <caret line="1132" column="27" lean-forward="false" selection-start-line="1132" selection-start-column="27" selection-end-line="1132" selection-end-column="27" />
-          <folding />
+          <folding>
+            <marker date="1507389341149" expanded="false" signature="44899:44913" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -611,35 +686,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1020">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="10132">
+          <caret line="596" column="23" lean-forward="false" selection-start-line="596" selection-start-column="23" selection-end-line="596" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="137" column="6" lean-forward="true" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
+        <state relative-caret-position="17">
+          <caret line="1637" column="18" lean-forward="false" selection-start-line="1637" selection-start-column="18" selection-end-line="1637" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/calums.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="284" column="5" lean-forward="true" selection-start-line="284" selection-start-column="5" selection-end-line="284" selection-end-column="5" />
+        <state relative-caret-position="150">
+          <caret line="250" column="0" lean-forward="true" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27540">
-          <caret line="1659" column="4" lean-forward="false" selection-start-line="1659" selection-start-column="4" selection-end-line="1659" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="9621">
+          <caret line="1283" column="40" lean-forward="true" selection-start-line="1283" selection-start-column="40" selection-end-line="1283" selection-end-column="40" />
+          <folding>
+            <marker date="1507389341149" expanded="false" signature="44899:44913" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
