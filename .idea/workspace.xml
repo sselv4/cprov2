@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsiveX.css" afterPath="$PROJECT_DIR$/css/responsiveX.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1165">
-              <caret line="1301" column="16" lean-forward="false" selection-start-line="1301" selection-start-column="16" selection-end-line="1301" selection-end-column="16" />
+            <state relative-caret-position="-6298">
+              <caret line="631" column="12" lean-forward="true" selection-start-line="631" selection-start-column="12" selection-end-line="631" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#h5#0;n#div#3;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -31,18 +33,28 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2584">
-              <caret line="510" column="20" lean-forward="true" selection-start-line="510" selection-start-column="20" selection-end-line="510" selection-end-column="20" />
+            <state relative-caret-position="279">
+              <caret line="880" column="12" lean-forward="false" selection-start-line="880" selection-start-column="1" selection-end-line="880" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calums.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="responsiveX.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="599" column="32" lean-forward="true" selection-start-line="599" selection-start-column="32" selection-end-line="599" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calums.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/calums.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="626">
-              <caret line="306" column="38" lean-forward="true" selection-start-line="306" selection-start-column="38" selection-end-line="306" selection-end-column="38" />
+            <state relative-caret-position="323">
+              <caret line="283" column="35" lean-forward="true" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="35" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -54,10 +66,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>top</find>
-      <find>ha</find>
-      <find>row</find>
-      <find>service</find>
       <find>cbp-rfgrid</find>
       <find>wor</find>
       <find>O</find>
@@ -84,6 +92,10 @@
       <find>navba</find>
       <find>focus</find>
       <find>team</find>
+      <find>client-list</find>
+      <find>clien</find>
+      <find>our team</find>
+      <find>pro team</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,10 +105,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/responsiveX.css" />
         <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/calums.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/responsiveX.css" />
       </list>
     </option>
   </component>
@@ -144,12 +156,6 @@
               <item name="cprov2" type="b2602c69:ProjectViewProjectNode" />
               <item name="cprov2" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cprov2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cprov2" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="team" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cprov2" type="b2602c69:ProjectViewProjectNode" />
@@ -223,7 +229,7 @@
       <workItem from="1507852550292" duration="61000" />
       <workItem from="1507852712827" duration="10329000" />
       <workItem from="1507913112250" duration="11919000" />
-      <workItem from="1507998727100" duration="10961000" />
+      <workItem from="1507998727100" duration="16595000" />
     </task>
     <task id="LOCAL-00001" summary="Partial Fix 9.7 inch tab css">
       <created>1506187823820</created>
@@ -281,11 +287,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508015651874</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Scroll to top icon added and Bottom Scroll Revision">
+      <created>1508015671622</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1508015671622</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97056000" />
+    <option name="totallyTimeSpent" value="102690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -633,14 +646,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10132">
-          <caret line="596" column="23" lean-forward="false" selection-start-line="596" selection-start-column="23" selection-end-line="596" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/team/pic2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -681,31 +686,39 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1165">
-          <caret line="1301" column="16" lean-forward="false" selection-start-line="1301" selection-start-column="16" selection-end-line="1301" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#h5#0;n#div#3;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2584">
-          <caret line="510" column="20" lean-forward="true" selection-start-line="510" selection-start-column="20" selection-end-line="510" selection-end-column="20" />
+        <state relative-caret-position="279">
+          <caret line="880" column="12" lean-forward="false" selection-start-line="880" selection-start-column="1" selection-end-line="880" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/calums.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="306" column="38" lean-forward="true" selection-start-line="306" selection-start-column="38" selection-end-line="306" selection-end-column="38" />
+        <state relative-caret-position="323">
+          <caret line="283" column="35" lean-forward="true" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="35" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6298">
+          <caret line="631" column="12" lean-forward="true" selection-start-line="631" selection-start-column="12" selection-end-line="631" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#h5#0;n#div#3;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="599" column="32" lean-forward="true" selection-start-line="599" selection-start-column="32" selection-end-line="599" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
