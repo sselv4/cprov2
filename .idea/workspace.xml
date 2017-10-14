@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/alina.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/gio.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/khulan.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/peter.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/thumb Imane 2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/veronica.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/calums.js" afterPath="$PROJECT_DIR$/js/calums.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -232,7 +223,7 @@
       <workItem from="1507852550292" duration="61000" />
       <workItem from="1507852712827" duration="10329000" />
       <workItem from="1507913112250" duration="11919000" />
-      <workItem from="1507998727100" duration="10942000" />
+      <workItem from="1507998727100" duration="10961000" />
     </task>
     <task id="LOCAL-00001" summary="Partial Fix 9.7 inch tab css">
       <created>1506187823820</created>
@@ -283,11 +274,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507332438625</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Scroll to top icon added and Bottom Scroll Revision">
+      <created>1508015651874</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1508015651874</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97037000" />
+    <option name="totallyTimeSpent" value="97056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
