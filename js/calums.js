@@ -291,15 +291,79 @@ $(document).ready(function() {
     });
 });
 
-
-
-
-
+/*
+***************highlight active nav icon ***********
+*/
+$('#btn-1').click(function (){
+    $('#btn-7').removeClass("active");
+    $('#btn-6').removeClass("active");
+    $('#btn-5').removeClass("active");
+    $('#btn-4').removeClass("active");
+    $('#btn-3').removeClass("active");
+    $('#btn-2').removeClass("active");
+    $('#btn-1').toggleClass("active");
+});
+$('#btn-2').click(function (){
+    $('#btn-7').removeClass("active");
+    $('#btn-6').removeClass("active");
+    $('#btn-5').removeClass("active");
+    $('#btn-4').removeClass("active");
+    $('#btn-3').removeClass("active");
+    $('#btn-1').removeClass("active");
+    $('#btn-2').toggleClass("active");
+});
+$('#btn-3').click(function (){
+    $('#btn-7').removeClass("active");
+    $('#btn-6').removeClass("active");
+    $('#btn-5').removeClass("active");
+    $('#btn-4').removeClass("active");
+    $('#btn-2').removeClass("active");
+    $('#btn-1').removeClass("active");
+    $('#btn-3').toggleClass("active");
+});
+$('#btn-4').click(function (){
+    $('#btn-7').removeClass("active");
+    $('#btn-6').removeClass("active");
+    $('#btn-5').removeClass("active");
+    $('#btn-3').removeClass("active");
+    $('#btn-2').removeClass("active");
+    $('#btn-1').removeClass("active");
+    $('#btn-4').toggleClass("active");
+});
+$('#btn-5').click(function (){
+    $('#btn-7').removeClass("active");
+    $('#btn-6').removeClass("active");
+    $('#btn-4').removeClass("active");
+    $('#btn-3').removeClass("active");
+    $('#btn-2').removeClass("active");
+    $('#btn-1').removeClass("active");
+    $('#btn-5').toggleClass("active");
+});
+$('#btn-6').click(function (){
+    $('#btn-7').removeClass("active");
+    $('#btn-4').removeClass("active");
+    $('#btn-5').removeClass("active");
+    $('#btn-3').removeClass("active");
+    $('#btn-2').removeClass("active");
+    $('#btn-1').removeClass("active");
+    $('#btn-6').toggleClass("active");
+});
+$('#btn-7').click(function (){
+    $('#btn-6').removeClass("active");
+    $('#btn-4').removeClass("active");
+    $('#btn-5').removeClass("active");
+    $('#btn-3').removeClass("active");
+    $('#btn-2').removeClass("active");
+    $('#btn-1').removeClass("active");
+    $('#btn-7').toggleClass("active");
+});
 /* =================================
 ===  WOW ANIMATION             ====
 =================================== */
 
 new WOW().init();
+
+
 
 
 
