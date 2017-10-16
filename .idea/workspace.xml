@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/anil.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="718" column="24" lean-forward="false" selection-start-line="718" selection-start-column="24" selection-end-line="718" selection-end-column="24" />
+            <state relative-caret-position="473">
+              <caret line="1305" column="10" lean-forward="true" selection-start-line="1305" selection-start-column="10" selection-end-line="1305" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#h5#0;n#div#3;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -33,7 +31,7 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
+            <state relative-caret-position="14960">
               <caret line="880" column="12" lean-forward="false" selection-start-line="880" selection-start-column="1" selection-end-line="880" selection-end-column="12" />
               <folding />
             </state>
@@ -43,7 +41,7 @@
       <file leaf-file-name="responsiveX.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2007">
+            <state relative-caret-position="10183">
               <caret line="599" column="32" lean-forward="true" selection-start-line="599" selection-start-column="32" selection-end-line="599" selection-end-column="32" />
               <folding />
             </state>
@@ -53,7 +51,7 @@
       <file leaf-file-name="calums.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/calums.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="4777">
               <caret line="283" column="35" lean-forward="true" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="35" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -119,8 +117,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-849" />
-    <option name="y" value="181" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -140,6 +138,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,8 +172,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,7 +233,8 @@
       <workItem from="1507852550292" duration="61000" />
       <workItem from="1507852712827" duration="10329000" />
       <workItem from="1507913112250" duration="11919000" />
-      <workItem from="1507998727100" duration="17351000" />
+      <workItem from="1507998727100" duration="18160000" />
+      <workItem from="1508171514617" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="Partial Fix 9.7 inch tab css">
       <created>1506187823820</created>
@@ -307,11 +306,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508021810666</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Prof pic">
+      <created>1508022596125</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1508022596125</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103446000" />
+    <option name="totallyTimeSpent" value="104664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -351,7 +357,8 @@
     <MESSAGE value="Content Modifications Old version commented out in index File." />
     <MESSAGE value="Scroll to top icon added and Bottom Scroll Revision" />
     <MESSAGE value="Last two containers responsiveness fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Last two containers responsiveness fix" />
+    <MESSAGE value="Prof pic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prof pic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -702,7 +709,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="14960">
           <caret line="880" column="12" lean-forward="false" selection-start-line="880" selection-start-column="1" selection-end-line="880" selection-end-column="12" />
           <folding />
         </state>
@@ -710,7 +717,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/calums.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="4777">
           <caret line="283" column="35" lean-forward="true" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="35" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -720,7 +727,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2007">
+        <state relative-caret-position="10183">
           <caret line="599" column="32" lean-forward="true" selection-start-line="599" selection-start-column="32" selection-end-line="599" selection-end-column="32" />
           <folding />
         </state>
@@ -728,8 +735,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="718" column="24" lean-forward="false" selection-start-line="718" selection-start-column="24" selection-end-line="718" selection-end-column="24" />
+        <state relative-caret-position="473">
+          <caret line="1305" column="10" lean-forward="true" selection-start-line="1305" selection-start-column="10" selection-end-line="1305" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#a#0;n#h5#0;n#div#3;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
