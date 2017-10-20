@@ -516,9 +516,13 @@ span.glyphicon{
 
 }
 span.highlight {
-    background-color: blue;
+    background-color: transparent;
+	font-family: Arial;
+	font-stretch: expanded;
+	font-weight: bold;
 
-	color: deepskyblue;
+
+	color: darkblue;
 }
 .logo{
     float: left;
