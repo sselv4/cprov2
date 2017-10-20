@@ -520,8 +520,13 @@ span.highlight {
 }
 .logo{
     float: left;
-    padding-left:10%;
-    padding-top: 5%;
+    padding-left:6%;
+	padding-top: 1%;
+
+}
+.logo1{
+	width: 140px;
+	height: 90px;
 }
 /* Short Messages */
 .bottom-message-section {

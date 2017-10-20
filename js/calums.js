@@ -4,9 +4,9 @@
 $.vegas('slideshow', {
   delay:7000,
   backgrounds:[
-    { src:'images/backgrounds/b.jpeg', fade:1000 },
-    { src:'images/backgrounds/b1.jpg', fade:1000 },
-    { src:'images/backgrounds/b2.jpg', fade:1000 }
+    { src:'images/backgrounds/homepic1.jpg', fade:1000 },
+    { src:'images/backgrounds/homepic2.jpg', fade:1000 },
+    { src:'images/backgrounds/homepic3.jpg', fade:1000 }
   ]
 });
 
@@ -173,6 +173,7 @@ jQuery(document).ready(function($) {
                 $('#loaded-content meta').remove();
                 $('#loader').hide();
                 content.fadeIn(600);
+
                 $('#back-button').fadeIn(600);
             });
         },800);
