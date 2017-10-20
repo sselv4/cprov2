@@ -508,26 +508,25 @@ span.glyphicon{
 	text-align: center;
     font-family: "fantasy";
 	color: #ffffff;
-	margin-top: 25%;
+	margin-top: 15%;
     padding-left: 10%;
-    padding-top: 20%;
+    padding-top: 45%;
 	line-height: 85px;
 	z-index: 0;
 
 }
 span.highlight {
-    background-color: #232b59;
+    background-color: blue;
+
+	color: deepskyblue;
 }
 .logo{
     float: left;
-    padding-left:6%;
-	padding-top: 1%;
+    padding-left:7%;
+	padding-top: 3%;
 
 }
-.logo1{
-	width: 140px;
-	height: 90px;
-}
+
 /* Short Messages */
 .bottom-message-section {
 	margin-top: 14%;

@@ -392,11 +392,11 @@
     height:40px;
   }
   span.text{
-    color: white;
+    color: black;
   }
   .hamburger{
     display:block;
-    color:white;
+    color:black;
     margin-right:15px;
     margin-top: 5px;
     float:right;

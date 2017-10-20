@@ -4,9 +4,9 @@
 $.vegas('slideshow', {
   delay:7000,
   backgrounds:[
-    { src:'images/backgrounds/homepic1.jpg', fade:1000 },
-    { src:'images/backgrounds/homepic2.jpg', fade:1000 },
-    { src:'images/backgrounds/homepic3.jpg', fade:1000 }
+    { src:'images/backgrounds/homepic1-2pugai.jpg', fade:1000 },
+    { src:'images/backgrounds/homepic2-2pugai.jpg', fade:1000 },
+    { src:'images/backgrounds/homepic3-2pugai.jpg', fade:1000 }
   ]
 });
 
