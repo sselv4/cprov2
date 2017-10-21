@@ -259,7 +259,11 @@ $(document).ready(function(){
     $('ul').slideToggle();
   });
 });
-
+if($(window).width() < 767) {
+    $('.navbar-list').click(function () {
+        $('ul').slideToggle();
+    });
+}
 
 /*********************scrollTop***************/
 $(window).scroll(function() {

@@ -732,7 +732,7 @@ width: -webkit-calc(100% / 4);
 	display: inline-block;
 	margin-bottom: 15px;
 	font-weight: bold;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 .cbp-rfgrid li a:hover .project-info {
 	filter: alpha(opacity=100);
