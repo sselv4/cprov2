@@ -273,19 +273,22 @@ $(window).scroll(function() {
         $('#return-to-top').fadeOut(200);   // Else fade out the arrow
     }
 });
-$()
+
 $('#return-to-top').click(function() {      // When arrow is clicked
     $('body,html').animate({
         scrollTop : 0                       // Scroll to top of body
     }, 500);
 });
-$(window).scroll(function() {
-    if ($(this).scrollTop() >= 700) {        // If page is scrolled more than 2000px
-        $('#sm-scroll-up').fadeIn(200);    // Fade in the arrow
-    } else {
-        $('#sm-scroll-up').fadeOut(200);   // Else fade out the arrow
-    }
-});
+if($(window).width() < 767) {
+    $(window).scroll(function () {
+        if ($(this).scrollTop() >= 700) {      // If page is scrolled more than 2000px
+
+            $('#sm-scroll-up').fadeIn(200);    // Fade in the arrow
+        } else {
+            $('#sm-scroll-up').fadeOut(200);   // Else fade out the arrow
+        }
+    });
+}
 $('.button-sm-scroll-up').click(function() {      // When arrow is clicked
     $('body,html').animate({
         scrollTop : 0                       // Scroll to top of body

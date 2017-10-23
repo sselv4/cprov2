@@ -1599,8 +1599,8 @@ footer {
 /***************Back to top *********************/
 #return-to-top {
 	position: fixed;
-	bottom: 0.5%;
-	right:0.5%;
+	bottom: 0.001%;
+	right:2%;
 	width: 9%;
 	height: 7%;
 	display: none;
@@ -1616,9 +1616,12 @@ footer {
 	-webkit-animation: bounce-down 3s infinite ease-in-out;
 }
 #return-to-top span {
-	color: grey;
+	color: #1a897d;
 	position: fixed;
 	font-size: 29px;
+	width: 24px;
+	height: 24px;
+	right:1%;
 
 	-webkit-transition: all 0.3s ease;
 	/*-moz-transition: all 0.3s ease;
@@ -1629,13 +1632,13 @@ footer {
 
 @-webkit-keyframes bounce-down {
 	0%, 20%, 60%, 100%  { -webkit-transform: translateY(0); }
-	40%  { -webkit-transform: translateY(-20px); }
-	80% { -webkit-transform: translateY(-10px); }
+	40%  { -webkit-transform: translateY(-0px); }
+	80% { -webkit-transform: translateY(-0px); }
 }
 .image-sm-scroll-up{
 	height: 30px;
 	width: 30px;
-}.
+}
 .button-sm-scroll-up{
 	 height: 30px;
 	 width: 30px;
@@ -1655,13 +1658,13 @@ footer {
 }
 #section07 a .arrow-down1, #section07 a .arrow-down2, #section07 a .arrow-down3 {
 	position: fixed;
-	bottom:20px;
+	bottom:5px;
 	left: 50%;
 	width: 24px;
 	height: 24px;
 	margin-left: -12px;
-	border-left: 4px solid grey;
-	border-bottom: 4px solid grey;
+	border-left: 6px solid #1a897d;
+	border-bottom: 6px solid #1a897d;
 	-webkit-transform: rotate(-45deg);
 	transform: rotate(-45deg);
 	-webkit-animation: sdb07 2s infinite;
@@ -1674,13 +1677,13 @@ footer {
 
 #section07 a .arrow-down1 {
 
-	bottom: 36px;
+	bottom: 21px;
 	-webkit-animation-delay: 0s;
 	animation-delay: 0s;
 }
 #section07 a .arrow-down2 {
 
-	bottom:52px;
+	bottom:37px;
 	-webkit-animation-delay: .15s;
 	animation-delay: .15s;
 }

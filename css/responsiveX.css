@@ -87,6 +87,8 @@
   }
   span.text{
     color: white;
+    font-weight: bold;
+    font-size:20px;
   }
   .hamburger{
     display:block;
@@ -427,6 +429,8 @@
   }
   span.text{
     color: white;
+    font-weight: bold;
+    font-size:15px;
   }
   .hamburger{
     display:block;
