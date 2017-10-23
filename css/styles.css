@@ -1633,8 +1633,16 @@ footer {
 	80% { -webkit-transform: translateY(-10px); }
 }
 .image-sm-scroll-up{
-	height: 40px;
-	width: 40px;
+	height: 30px;
+	width: 30px;
+}
+.sm-scroll-up{
+
+	display: none;
+}
+.sm-scroll-up {
+	padding-top:55%;
+	padding-left:90%;
 }
 /*
 ************************scroll-down***************************/

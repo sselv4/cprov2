@@ -267,7 +267,7 @@ if($(window).width() < 767) {
 
 /*********************scrollTop***************/
 $(window).scroll(function() {
-    if ($(this).scrollTop() >= 2000) {        // If page is scrolled more than 50px
+    if ($(this).scrollTop() >= 2000) {        // If page is scrolled more than 2000px
         $('#return-to-top').fadeIn(200);    // Fade in the arrow
     } else {
         $('#return-to-top').fadeOut(200);   // Else fade out the arrow
@@ -275,6 +275,18 @@ $(window).scroll(function() {
 });
 $()
 $('#return-to-top').click(function() {      // When arrow is clicked
+    $('body,html').animate({
+        scrollTop : 0                       // Scroll to top of body
+    }, 500);
+});
+$(window).scroll(function() {
+    if ($(this).scrollTop() >= 700) {        // If page is scrolled more than 2000px
+        $('#sm-scroll-up').fadeIn(200);    // Fade in the arrow
+    } else {
+        $('#sm-scroll-up').fadeOut(200);   // Else fade out the arrow
+    }
+});
+$('#sm-scroll-up').click(function() {      // When arrow is clicked
     $('body,html').animate({
         scrollTop : 0                       // Scroll to top of body
     }, 500);

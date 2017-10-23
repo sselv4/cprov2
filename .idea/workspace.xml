@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bac to top.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsiveX.css" afterPath="$PROJECT_DIR$/css/responsiveX.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/calums.js" afterPath="$PROJECT_DIR$/js/calums.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+            <state relative-caret-position="969">
+              <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#h5#0;n#div#3;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -32,28 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arrow.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/icons/arrow.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="responsiveX.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="responsiveX.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="606" column="27" lean-forward="false" selection-start-line="606" selection-start-column="25" selection-end-line="606" selection-end-column="27" />
+            <state relative-caret-position="2557">
+              <caret line="411" column="32" lean-forward="true" selection-start-line="411" selection-start-column="32" selection-end-line="411" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="1637" column="1" lean-forward="true" selection-start-line="1637" selection-start-column="1" selection-end-line="1637" selection-end-column="1" />
+            <state relative-caret-position="363">
+              <caret line="1634" column="20" lean-forward="true" selection-start-line="1634" selection-start-column="20" selection-end-line="1634" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -62,8 +55,8 @@
       <file leaf-file-name="calums.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/calums.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="262" column="41" lean-forward="false" selection-start-line="262" selection-start-column="41" selection-end-line="262" selection-end-column="41" />
+            <state relative-caret-position="691">
+              <caret line="288" column="16" lean-forward="false" selection-start-line="288" selection-start-column="16" selection-end-line="288" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -80,7 +73,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>software de</find>
       <find>web app</find>
       <find>S</find>
       <find>go bac</find>
@@ -107,9 +99,10 @@
       <find>return</find>
       <find>absol</find>
       <find>fixed</find>
-      <find>scroll</find>
-      <find>toggle</find>
       <find>sm</find>
+      <find>z-in</find>
+      <find>toggle</find>
+      <find>scroll</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -127,10 +120,10 @@
         <option value="$PROJECT_DIR$/project5.html" />
         <option value="$PROJECT_DIR$/project6.html" />
         <option value="$PROJECT_DIR$/project7.html" />
-        <option value="$PROJECT_DIR$/js/calums.js" />
-        <option value="$PROJECT_DIR$/css/responsiveX.css" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/calums.js" />
+        <option value="$PROJECT_DIR$/css/responsiveX.css" />
       </list>
     </option>
   </component>
@@ -279,7 +272,7 @@
       <workItem from="1508621561524" duration="1241000" />
       <workItem from="1508623497070" duration="118000" />
       <workItem from="1508623729822" duration="87000" />
-      <workItem from="1508765911003" duration="7176000" />
+      <workItem from="1508765911003" duration="11568000" />
     </task>
     <task id="LOCAL-00001" summary="Partial Fix 9.7 inch tab css">
       <created>1506187823820</created>
@@ -421,11 +414,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508765943319</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Mobile Bug Fix on Nav container">
+      <created>1508779732423</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1508779732423</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146854000" />
+    <option name="totallyTimeSpent" value="151246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -473,7 +473,8 @@
     <MESSAGE value="z index bug" />
     <MESSAGE value="z index bug(2)" />
     <MESSAGE value="Hosted version update v4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hosted version update v4" />
+    <MESSAGE value="Mobile Bug Fix on Nav container" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mobile Bug Fix on Nav container" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -690,41 +691,41 @@
     <entry file="file://$PROJECT_DIR$/project5.html" />
     <entry file="file://$PROJECT_DIR$/project6.html" />
     <entry file="file://$PROJECT_DIR$/project7.html" />
-    <entry file="file://$PROJECT_DIR$/js/calums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="262" column="41" lean-forward="false" selection-start-line="262" selection-start-column="41" selection-end-line="262" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/icons/arrow.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/calums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="288" column="16" lean-forward="false" selection-start-line="288" selection-start-column="16" selection-end-line="288" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        <state relative-caret-position="969">
+          <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#a#0;n#h5#0;n#div#3;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="606" column="27" lean-forward="false" selection-start-line="606" selection-start-column="25" selection-end-line="606" selection-end-column="27" />
+        <state relative-caret-position="363">
+          <caret line="1634" column="20" lean-forward="true" selection-start-line="1634" selection-start-column="20" selection-end-line="1634" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="1637" column="1" lean-forward="true" selection-start-line="1637" selection-start-column="1" selection-end-line="1637" selection-end-column="1" />
+        <state relative-caret-position="2557">
+          <caret line="411" column="32" lean-forward="true" selection-start-line="411" selection-start-column="32" selection-end-line="411" selection-end-column="32" />
           <folding />
         </state>
       </provider>
