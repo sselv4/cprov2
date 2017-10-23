@@ -4,9 +4,6 @@
     <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsiveX.css" afterPath="$PROJECT_DIR$/css/responsiveX.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/calums.js" afterPath="$PROJECT_DIR$/js/calums.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,8 +32,8 @@
       <file leaf-file-name="responsiveX.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2557">
-              <caret line="411" column="32" lean-forward="true" selection-start-line="411" selection-start-column="32" selection-end-line="411" selection-end-column="32" />
+            <state relative-caret-position="340">
+              <caret line="73" column="3" lean-forward="false" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -272,7 +269,7 @@
       <workItem from="1508621561524" duration="1241000" />
       <workItem from="1508623497070" duration="118000" />
       <workItem from="1508623729822" duration="87000" />
-      <workItem from="1508765911003" duration="11568000" />
+      <workItem from="1508765911003" duration="11722000" />
     </task>
     <task id="LOCAL-00001" summary="Partial Fix 9.7 inch tab css">
       <created>1506187823820</created>
@@ -421,11 +418,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508779732423</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="scroll-up for Mobile">
+      <created>1508787745458</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1508787745458</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151246000" />
+    <option name="totallyTimeSpent" value="151400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -474,7 +478,8 @@
     <MESSAGE value="z index bug(2)" />
     <MESSAGE value="Hosted version update v4" />
     <MESSAGE value="Mobile Bug Fix on Nav container" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mobile Bug Fix on Nav container" />
+    <MESSAGE value="scroll-up for Mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="scroll-up for Mobile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -724,8 +729,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/responsiveX.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2557">
-          <caret line="411" column="32" lean-forward="true" selection-start-line="411" selection-start-column="32" selection-end-line="411" selection-end-column="32" />
+        <state relative-caret-position="340">
+          <caret line="73" column="3" lean-forward="false" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
           <folding />
         </state>
       </provider>

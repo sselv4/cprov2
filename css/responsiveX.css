@@ -65,6 +65,13 @@
   html {
     font-size: 90%;
   }
+  #sm-scroll-up{
+    display:block;
+    float:bottom;
+    position:fixed;
+    display:none;
+    z-index:845678;!important;
+  }
   .nav-container{
     width:100%;
     position: absolute;
@@ -467,13 +474,8 @@
   .logo{
     z-index: 200;
     vertical-align: center;
-
-
-
   }
   .logo1{
-
-
     width: 60px;
     height: 35px;
   }
