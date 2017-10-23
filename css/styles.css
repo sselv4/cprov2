@@ -1635,9 +1635,13 @@ footer {
 .image-sm-scroll-up{
 	height: 30px;
 	width: 30px;
-}
+}.
+.button-sm-scroll-up{
+	 height: 30px;
+	 width: 30px;
+	 z-index:845678;!important;
+ }
 .sm-scroll-up{
-
 	display: none;
 }
 .sm-scroll-up {

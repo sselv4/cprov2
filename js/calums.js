@@ -286,7 +286,7 @@ $(window).scroll(function() {
         $('#sm-scroll-up').fadeOut(200);   // Else fade out the arrow
     }
 });
-$('#sm-scroll-up').click(function() {      // When arrow is clicked
+$('.button-sm-scroll-up').click(function() {      // When arrow is clicked
     $('body,html').animate({
         scrollTop : 0                       // Scroll to top of body
     }, 500);
