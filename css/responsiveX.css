@@ -67,7 +67,7 @@
   }
   .nav-container{
     width:100%;
-    position: fixed;
+    position: absolute;
     background-color: transparent;
 
 
@@ -398,9 +398,13 @@
   html {
     font-size: 90%;
   }
+
+
+
+
   .nav-container{
     width:100%;
-    position: fixed;
+    position: absolute;
     background-color: transparent;
 
 
@@ -542,17 +546,6 @@
     padding-top: 33px;
     padding-bottom: 33px;
   }
-  .scrollup {
-    width: 40px;
-    height: 40px;
-    opacity: 0.3;
-    position: fixed;
-    bottom: 50px;
-    right: 100px;
-    display: none;
-    text-indent: -9999px;
-
-  }
 
 
 }
@@ -666,35 +659,9 @@
 #large-container{
   height:1200px;
 }
-  #return-to-top {
-    position: fixed;
-    bottom: 0.5%;
-    right:0.5%;
-    width: 5%;
-    height: 3%;
 
-    text-decoration: none;
-    /*-webkit-border-radius: 15px;
-    -moz-border-radius: 35px;*/
 
-    /*-webkit-transition: all 0.3s linear;
-    -moz-transition: all 0.3s ease;
-    -ms-transition: all 0.3s ease;
-    -o-transition: all 0.3s ease;
-    transition: all 0.3s ease;*/
 
-  }
-  #return-to-top span {
-    color: grey;
-    position: fixed;
-    font-size: 9px;
-
-  -webkit-transition: all 0.3s ease;
-    /*-moz-transition: all 0.3s ease;
-    -ms-transition: all 0.3s ease;
-    -o-transition: all 0.3s ease;*/
-    transition: all 0.3s ease;
-  }
 
 
 
