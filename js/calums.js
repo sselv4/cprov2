@@ -310,6 +310,9 @@ $(document).ready(function() {
         $('html, body').animate({scrollTop: '+=750px'}, 800);
     });
 });
+$('.team-member').click(function(){
+    $('.team-member').toggleClass('temactive');
+});
 
 /*
 ***************highlight active nav icon ***********
