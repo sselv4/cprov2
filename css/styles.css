@@ -352,6 +352,7 @@ input:focus {
 /*** SECTION HEADERS ***/
 .focus,.works,.about-us,.features,.packages,.products,.contact-us {
 	padding-top: 100px;
+	text-align: center;
 }
 .testimonial{
 	padding-top: 50px;
