@@ -228,6 +228,7 @@ h6 {
 }
 .dark-text {
 	color: #404040;
+	
 }
 .white-text {
 	color: #FFFFFF;
@@ -365,6 +366,7 @@ input:focus {
 	padding-bottom: 10px;
 	line-height: 40px;
 	position: relative;
+
 	display: inline-block;
 }
 .section-header h6 {
@@ -376,6 +378,7 @@ input:focus {
 	width:100%;
 
 }
+
 
 /* PRE LOADER */
 .preloader {
@@ -638,7 +641,7 @@ span.highlight {
 	background: #007345;
 }
 .separator-one .text {
-	color: #FFF;
+	color: #FFF;. text-align: center;
 	line-height: 34px;
 	padding: 0;
 	max-width: 800px;
@@ -653,6 +656,7 @@ span.highlight {
 	padding-bottom: 100px;
 	background: #FFFFFF;
 	min-height: 800px;
+	padding-right: 80px;
 }
 
 /* IMAGE GRID */
@@ -1649,7 +1653,7 @@ footer {
 	width: 30px;
 	position:absolute;
 	z-index:999;!important;
-	padding-top:45%;
+	padding-top:20%;
 	padding-left:90%;
 }
 /*
