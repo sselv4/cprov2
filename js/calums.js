@@ -4,14 +4,15 @@
 $.vegas('slideshow', {
   delay:7000,
   backgrounds:[
-    { src:'images/backgrounds/homepic1-2pugai.jpg', fade:1000 },
-    { src:'images/backgrounds/homepic2-2pugai.jpg', fade:1000 },
-    { src:'images/backgrounds/homepic3-2pugai.jpg', fade:1000 }
+    { src:'images/backgrounds/edited 1.jpg', fade:1000 },
+    { src:'images/backgrounds/edited 2.jpg', fade:1000 },
+    { src:'images/backgrounds/edited 3.jpg', fade:1000 }
   ]
 });
 
 
 /* =================================
+   LOADER
    LOADER
 =================================== */
 // makes sure the whole site is loaded

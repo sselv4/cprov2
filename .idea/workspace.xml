@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="Container align and scroll back mob safari fix Works section padded right">
+    <list default="true" id="8462f9de-8e14-4f4a-b7d7-ef518dff5561" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsiveX.css" afterPath="$PROJECT_DIR$/css/responsiveX.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,8 +29,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="1650" column="15" lean-forward="true" selection-start-line="1650" selection-start-column="15" selection-end-line="1650" selection-end-column="15" />
+            <state relative-caret-position="391">
+              <caret line="1643" column="0" lean-forward="true" selection-start-line="1643" selection-start-column="0" selection-end-line="1643" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -254,7 +251,7 @@
       <workItem from="1508798179863" duration="2761000" />
       <workItem from="1508862489532" duration="319000" />
       <workItem from="1508881942367" duration="8000" />
-      <workItem from="1509133732330" duration="4069000" />
+      <workItem from="1509133732330" duration="4372000" />
     </task>
     <task id="LOCAL-00001" summary="Partial Fix 9.7 inch tab css">
       <created>1506187823820</created>
@@ -431,15 +428,21 @@
       <option name="project" value="LOCAL" />
       <updated>1508798039387</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Container align and scroll back mob safari fix Works section padded right">
+      <created>1509142291747</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1509142291747</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168153000" />
+    <option name="totallyTimeSpent" value="168456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.090094835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -506,7 +509,8 @@
     <MESSAGE value="scroll-up for Mobile" />
     <MESSAGE value="scroll-up for Mobile (Trans Image) and container fix" />
     <MESSAGE value="Prof Peter Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prof Peter Changes" />
+    <MESSAGE value="Container align and scroll back mob safari fix Works section padded right" />
+    <option name="LAST_COMMIT_MESSAGE" value="Container align and scroll back mob safari fix Works section padded right" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -757,8 +761,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="1650" column="15" lean-forward="true" selection-start-line="1650" selection-start-column="15" selection-end-line="1650" selection-end-column="15" />
+        <state relative-caret-position="391">
+          <caret line="1643" column="0" lean-forward="true" selection-start-line="1643" selection-start-column="0" selection-end-line="1643" selection-end-column="0" />
           <folding />
         </state>
       </provider>
